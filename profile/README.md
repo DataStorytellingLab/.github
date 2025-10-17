@@ -31,5 +31,5 @@ This work is licensed under a
 <br>
 <br>
 <br>
-<img width="540" height="109" align="right" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/5ffcf0fa-6bd2-43fa-852c-d95b0198fbf9" />
+<img width="1080" height="1080" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/f9aea02a-3bca-4e8e-97bf-4545030ae7db" />
 
