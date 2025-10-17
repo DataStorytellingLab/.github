@@ -29,7 +29,3 @@ This work is licensed under a
 [cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 [cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
 <br>
-<br>
-<br>
-<img width="1080" height="1080" alt="DSL Marketing-8-DSL_Logo_Black_Secondary" src="https://github.com/user-attachments/assets/f9aea02a-3bca-4e8e-97bf-4545030ae7db" />
-
