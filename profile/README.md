@@ -10,7 +10,7 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 - [Filipa Calado](https://www.pratt.edu/people/filipa-calado/), _Text Processing with Python_ (September 18, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/processing-text-python)
 - [John Decker](https://www.pratt.edu/people/john-decker/), _Working with Data Manually_ (October 16, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/Working_with_Manual_Data)
 - [John Lauermann](https://www.pratt.edu/people/john-lauermann/), _Visualize Social Patterns with the Census API_ (November 20, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/visualize-social-patterns-census-api)
-- [Mark Rosin](https://www.pratt.edu/people/mark-rosin/),  _Intro to Mathematical Modeling & Visualization in Python_ (February 12)
+- [Mark Rosin](https://www.pratt.edu/people/mark-rosin/),  _Intro to Mathematical Modeling & Visualization in Python_ (February 12) [Workshop Materials Here](https://github.com/DataStorytellingLab/mathematical-modeling-visualization)
 - [Kathy Carbone](https://www.pratt.edu/people/kathy-carbone/) & [Benjamin Zweig](https://www.pratt.edu/people/benjamin-zweig/), _Mapping the Art of Displacement_, (March 26) 
 - [Claudia Berger](https://www.pratt.edu/people/claudia-berger/), [Nancy Smith](https://www.pratt.edu/people/nancy-smith/), and [Chris Sula](https://www.pratt.edu/people/chris-alen-sula/), _Data physicalization_ (April 9)
 
