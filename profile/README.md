@@ -14,7 +14,6 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 - [Rachel Daniell](https://www.pratt.edu/people/rachel-daniell/), title tbd, (April 15, 3:00-4:30, PMC 714)
 <br>
 <br>
-
 ## Workshops, 2025-2026 Academic Year
 - [Filipa Calado](https://www.pratt.edu/people/filipa-calado/), _Text Processing with Python_ (September 18, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/processing-text-python)
 - [John Decker](https://www.pratt.edu/people/john-decker/), _Working with Data Manually_ (October 16, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/Working_with_Manual_Data)
