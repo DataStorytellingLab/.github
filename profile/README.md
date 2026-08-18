@@ -5,7 +5,6 @@
 
 This repository hosts teaching materials produced by the Data Storytelling Lab at Pratt Institute. There is widespread interest in data storytelling around Pratt Institute, as evidenced by faculty research initiatives and student demand for data storytelling coursework. Yet there are significant barriers to entry for this practice, including technical skills for working with data; knowledge of data content, formatting, and standards; and creative skills related to visualization, narrative, and UX design. We established the Data Storytelling Lab (DSL) as a teaching lab focused on identifying, implementing, and assessing best practices for teaching and learning about data storytelling. Here you can find workshops and tutorials procuded by lab contributors, focused on technical skills for data communication. Faculty and students are welcome to use these materials as teaching and learning resources. 
 <br>
-<br>
 
 ## Workshops, 2026-2027 Academic Year
 - [Filipa Calado](https://www.pratt.edu/people/filipa-calado/), _Text Processing with Python: Exploring The Odyssey_, (September 17, 3:00-4:30pm, PMC 714)
@@ -13,7 +12,7 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 - [Mark Heller](https://www.pratt.edu/people/mark-heller/), title tbd, (February 18, 3:00-4:30pm, PMC 712)
 - [Rachel Daniell](https://www.pratt.edu/people/rachel-daniell/), title tbd, (April 15, 3:00-4:30, PMC 714)
 <br>
-<br>
+
 ## Workshops, 2025-2026 Academic Year
 - [Filipa Calado](https://www.pratt.edu/people/filipa-calado/), _Text Processing with Python_ (September 18, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/processing-text-python)
 - [John Decker](https://www.pratt.edu/people/john-decker/), _Working with Data Manually_ (October 16, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/Working_with_Manual_Data)
@@ -21,7 +20,6 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 - [Mark Rosin](https://www.pratt.edu/people/mark-rosin/),  _Intro to Mathematical Modeling & Visualization in Python_ (February 12) [Workshop Materials Here](https://github.com/DataStorytellingLab/mathematical-modeling-visualization)
 - [Kathy Carbone](https://www.pratt.edu/people/kathy-carbone/) & [Benjamin Zweig](https://www.pratt.edu/people/benjamin-zweig/), _Mapping the Art of Displacement_, (March 26) [Workshop Materials Here](https://github.com/DataStorytellingLab/Mapping-Art-of-Displacement)
 - [Claudia Berger](https://www.pratt.edu/people/claudia-berger/), [Nancy Smith](https://www.pratt.edu/people/nancy-smith/), and [Chris Sula](https://www.pratt.edu/people/chris-alen-sula/), _Data physicalization_ (April 9)
-
 <br>
 <br>
 
