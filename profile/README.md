@@ -8,7 +8,7 @@ This repository hosts teaching materials produced by the Data Storytelling Lab a
 
 ## Workshops, 2026-2027 Academic Year
 - [Filipa Calado](https://www.pratt.edu/people/filipa-calado/), _Text Processing with Python: Exploring The Odyssey_, (September 17, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/nlp_odyssey)
-- [Craig Fahner](https://www.pratt.edu/people/craig-fahner/), title tbd, (November 12, 3:00-4:30pm, PMC 714)
+- [Craig Fahner](https://www.pratt.edu/people/craig-fahner/), _Scraping and Analyzing Social Media Data with Zeeschuimer_, (November 12, 3:00-4:30pm, PMC 714) [Workshop Materials Here](https://github.com/DataStorytellingLab/zeeschuimer-workshop)
 - [Mark Heller](https://www.pratt.edu/people/mark-heller/), title tbd, (February 18, 3:00-4:30pm, PMC 712)
 - [Rachel Daniell](https://www.pratt.edu/people/rachel-daniell/), _Data Drag!: Exploring Embodied & Expressive Ways to Communicate Data_, (April 15, 3:00-4:30, PMC 714)
 <br>
